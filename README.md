@@ -44,12 +44,6 @@ A visually interactive sales analytics dashboard built to provide actionable ins
 - Include product-level granularity.
 - Export to PDF / Embed in business portals.
 
-## 💡 Author
 
-Made with ❤ by Indrajth RajeshKumar  
-B.Tech - Artificial Intelligence and Data Science  
-Rajalakshmi Institute of Technology
-
----
 
 > Data speaks louder when visualized. This dashboard isn't just flashy—it’s strategic.
